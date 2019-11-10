@@ -54,3 +54,7 @@ Elixir
 React
 
 - [The Road to Learn React](https://drive.google.com/open?id=1KvVFok3GfSfBTNkdNBcC0EbC1cCGKRfY)
+
+Mind
+- [Breaking the Habit of Being Yourself](https://drive.google.com/open?id=11rghbozPOBekZERY-TVibmMPb1yuSqae)
+- [Mind Hack] (https://drive.google.com/open?id=1PGzTAHRhODmkawgf92wtY9pU0_lCUdyN)
