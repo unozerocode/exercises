@@ -5,4 +5,4 @@
        - image: circleci/python:3.6.4
      steps:
        - checkout
-       - run: py code/ex01.py
+       - run: python code/ex01.py
