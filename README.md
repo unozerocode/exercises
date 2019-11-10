@@ -24,6 +24,9 @@ Courses to take
 - [Exercism Python](https://exercism.io/my/tracks/python)
 
 Books to read
+
+R
+
 - [Hands On Programming with R](https://rstudio-education.github.io/hopr/)
 - [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)
 - [R for Data Science](https://r4ds.had.co.nz/)
@@ -41,3 +44,13 @@ Books to read
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 - [Hands on Programming with R](https://rstudio-education.github.io/hopr/)
 - [R Packages](https://r-pkgs.org/)
+
+Elixir 
+
+- [Functional Programming with Elixir](https://drive.google.com/open?id=1TgUCRMu6lyu7xQoCJCoyAetN9DOMhZIM)
+- [Programming Elixir](https://drive.google.com/open?id=12NDqoaDAmfRwR0ws34_4Be5RW0Vq8NE9)
+- [Metaprogramming Elixir](https://drive.google.com/open?id=1n78ol2ble4Cwl91nE8K91ncJSoWvSHil)
+
+React
+
+- [The Road to Learn React](https://drive.google.com/open?id=1KvVFok3GfSfBTNkdNBcC0EbC1cCGKRfY)
