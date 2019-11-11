@@ -47,9 +47,9 @@ R
 
 Elixir 
 
-- [Functional Programming with Elixir](https://drive.google.com/open?id=1TgUCRMu6lyu7xQoCJCoyAetN9DOMhZIM)
-- [Programming Elixir](https://drive.google.com/open?id=12NDqoaDAmfRwR0ws34_4Be5RW0Vq8NE9)
-- [Metaprogramming Elixir](https://drive.google.com/open?id=1n78ol2ble4Cwl91nE8K91ncJSoWvSHil)
+- Functional Programming with Elixir
+- Programming Elixir
+- Metaprogramming Elixir
 
 React
 
@@ -60,5 +60,5 @@ GraphQL
 - [The Road to Learn GraphQL](https://drive.google.com/open?id=1bdu75J3NwQnU2nIHur5kBy5y1Bm8tHOP)
 
 Mind
-- [Breaking the Habit of Being Yourself](https://drive.google.com/open?id=11rghbozPOBekZERY-TVibmMPb1yuSqae)
-- [Mind Hack] (https://drive.google.com/open?id=1PGzTAHRhODmkawgf92wtY9pU0_lCUdyN)
+- Breaking the Habit of Being Yourself - Dispenza
+- Mind Hack
