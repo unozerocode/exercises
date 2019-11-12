@@ -25,6 +25,9 @@ Courses to take
 
 Books to read
 
+Awk
+- [Effective Awk Programming](https://www.gnu.org/software/gawk/manual/gawk.pdf)
+
 R
 
 - [Hands On Programming with R](https://rstudio-education.github.io/hopr/)
