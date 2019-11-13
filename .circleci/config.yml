@@ -6,3 +6,5 @@
      steps:
        - checkout
        - run: python code/ex01.py
+       - run: python code/ex02.py
+       - run: python code/ex03.py
