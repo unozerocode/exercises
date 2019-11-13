@@ -5,7 +5,7 @@ class Solution:
         for sub in substrings:
           revsub = sub[::-1]
           revindex = s.find(revsub)
-          if revindex > 0 :
+          if revindex >= 0 :
               if len(revsub) > len(longest):
                 longest = revsub
         return longest
@@ -30,3 +30,5 @@ print(Solution().longestPalindrome("banana"))
 
 print(Solution().longestPalindrome("million"))
 #Output: "illi"
+
+print(Solution().longestPalindrome("bob"))
