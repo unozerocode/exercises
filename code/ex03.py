@@ -18,17 +18,19 @@ class Solution:
           r.append(f"{s[i:j:1]}")
       return r
           
-    def reverse(self, s):
-      return s[::-1]
 # Test program
 
+print("Expecting racecar")
 print(Solution().longestPalindrome("tracecars"))
 # racecar
 
+print("Expecting anana")
 print(Solution().longestPalindrome("banana"))
 #Output: "anana"
 
+print("Expecting illi")
 print(Solution().longestPalindrome("million"))
 #Output: "illi"
 
+print("Expecting bob")
 print(Solution().longestPalindrome("bob"))
