@@ -1,8 +1,7 @@
-# solid-octo-pancake
+# Exercises
 
 [![CircleCI](https://circleci.com/gh/unozerocode/exercises.svg?style=svg&circle-token=55c433f7012d92bb1184beed283adc8a093f0093)](https://circleci.com/gh/unozerocode/exercises)
 
-Exercises
 
 Things to learn
 - Awk
