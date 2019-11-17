@@ -10,3 +10,4 @@
        - run: python code/ex03.py
        - run: python code/ex04.py
        - run: python code/ex05.py
+       - run: python code/ex06.py
