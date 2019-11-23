@@ -12,3 +12,4 @@
        - run: python code/ex05.py
        - run: python code/ex06.py
        - run: python code/ex07.py
+       - run: python code/ex08.py

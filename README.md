@@ -60,7 +60,10 @@ React
 GraphQL
 
 - [The Road to Learn GraphQL](https://drive.google.com/open?id=1bdu75J3NwQnU2nIHur5kBy5y1Bm8tHOP)
-
+- [Elixir and GraphQL](https://www.howtographql.com/graphql-elixir/0-introduction/)
+- [Prisma Client](https://www.prisma.io/client/client-javascript/)
+- [GraphQL Inspector](https://graphql-inspector.com/docs/
+)
 Mind
 - Breaking the Habit of Being Yourself - Dispenza
 - Mind Hack
