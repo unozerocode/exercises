@@ -14,3 +14,4 @@
        - run: python code/ex07.py
        - run: python code/ex08.py
        - run: python code/ex09.py
+       - run: python code/ex10.py
