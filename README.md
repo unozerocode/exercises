@@ -5,6 +5,7 @@
 
 Things to learn
 - Awk
+- Elixir
 - R
 - Python
 - Rust
@@ -19,6 +20,7 @@ Courses to take
 - [Kaggle Python](https://www.kaggle.com/learn/python)
 - [Exercism Rust](https://exercism.io/my/tracks/rust)
 - [Exercism R](https://exercism.io/my/tracks/r)
+- [Exercism Elixir](https://exercism.io/my/tracks/elixir)
 - [Exercism Javascript](https://exercism.io/my/tracks/javascript)
 - [Exercism Python](https://exercism.io/my/tracks/python)
 
@@ -64,6 +66,8 @@ GraphQL
 - [Prisma Client](https://www.prisma.io/client/client-javascript/)
 - [GraphQL Inspector](https://graphql-inspector.com/docs/
 )
+
 Mind
+
 - Breaking the Habit of Being Yourself - Dispenza
-- Mind Hack
+- [Mind Hacking](https://drive.google.com/open?id=1JNG29wu31P51Soate0TC6kD-TmESgs7t)
