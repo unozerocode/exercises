@@ -13,6 +13,8 @@ Things to learn
 - Postman
 - React
 - Next.JS
+- CouchDB, [PouchDB](https://pouchdb.com/) [CloudWall](https://cloudwall.me/)
+- [Web](https://developers.google.com/web/fundamentals)
 
 Courses to take
 - [MIT Information and Entropy](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)
@@ -21,6 +23,7 @@ Courses to take
 - [Exercism Rust](https://exercism.io/my/tracks/rust)
 - [Exercism R](https://exercism.io/my/tracks/r)
 - [Exercism Elixir](https://exercism.io/my/tracks/elixir)
+- [Elixir School](https://elixirschool.com/)
 - [Exercism Javascript](https://exercism.io/my/tracks/javascript)
 - [Exercism Python](https://exercism.io/my/tracks/python)
 
@@ -54,6 +57,22 @@ Elixir
 - Functional Programming with Elixir
 - Programming Elixir
 - Metaprogramming Elixir
+- [What´s new in Ecto 2.1](https://drive.google.com/open?id=1SBgGHlakNmrW0hduXP50v8IHnGyIaf3J)
+- [Ex Machina Test-Driven Development](https://github.com/thoughtbot/ex_machina)
+- [Benchee benchmarking](https://github.com/bencheeorg/benchee)
+- [Guardian Authentication](https://elixirschool.com/en/lessons/libraries/guardian/)
+
+Javascript Frameworks
+
+- [Ionic](https://ionicframework.com/)
+- [Electron](https://electronjs.org/)
+- [Electron Fiddle](https://electronjs.org/fiddle)
+- [Cordova](https://cordova.apache.org/)
+- [Capacito](https://capacitor.ionicframework.com/)
+- [Photon](http://photonkit.com/)
+- [Proton Native](https://proton-native.js.org/)
+- [PhoneGap](https://phonegap.com/)
+- [Onsen UI](https://onsen.io/)  
 
 React
 
