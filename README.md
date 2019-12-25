@@ -26,6 +26,7 @@ Courses to take
 - [Elixir School](https://elixirschool.com/)
 - [Exercism Javascript](https://exercism.io/my/tracks/javascript)
 - [Exercism Python](https://exercism.io/my/tracks/python)
+- [Firebase Cloud functions](https://fireship.io/courses/cloud-functions/)
 
 Books to read
 
@@ -68,11 +69,18 @@ Javascript Frameworks
 - [Electron](https://electronjs.org/)
 - [Electron Fiddle](https://electronjs.org/fiddle)
 - [Cordova](https://cordova.apache.org/)
-- [Capacito](https://capacitor.ionicframework.com/)
+- [Capacitor](https://capacitor.ionicframework.com/)
 - [Photon](http://photonkit.com/)
 - [Proton Native](https://proton-native.js.org/)
 - [PhoneGap](https://phonegap.com/)
 - [Onsen UI](https://onsen.io/)  
+- [Next.JS](https://nextjs.org/)
+- [Storybook](https://storybook.js.org/)
+- [StackBlitz](http://stackblitz.io)
+- [Svelte](https://svelte.dev/)
+- [Svelte Native](https://svelte-native.technology)
+- [Sapper](https://sapper.svelte.dev)
+- 
 
 React
 
