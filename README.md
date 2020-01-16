@@ -76,11 +76,34 @@ Javascript Frameworks
 - [Onsen UI](https://onsen.io/)  
 - [Next.JS](https://nextjs.org/)
 - [Storybook](https://storybook.js.org/)
-- [StackBlitz](http://stackblitz.io)
 - [Svelte](https://svelte.dev/)
 - [Svelte Native](https://svelte-native.technology)
 - [Sapper](https://sapper.svelte.dev)
-- 
+
+Online Development
+- [StackBlitz](http://stackblitz.io)
+- [Repl.it](https://repl.it/)
+- [Runkit](https://runkit.com/)
+
+JAM Stack
+- [fast.io](https://fast.io/)
+- [CommerceLayer](https://commercelayer.io/)
+- [DatoCMS](https://www.datocms.com/)
+- [Surge.sh](https://surge.sh/)
+- [Contentful](https://www.contentful.com/)
+- [Forestry.io](https://forestry.io/)
+
+2D Animation
+
+- [Famous Engine](http://famous.org/learn/hello-famous.html)
+- [Rive](https://rive.app/)
+
+Design
+- [Figma](https://www.figma.com/)
+
+Mobile Development
+- [Flutter](https://flutter.dev/)
+
 
 React
 
