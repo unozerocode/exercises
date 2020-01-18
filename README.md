@@ -84,19 +84,41 @@ Online Development
 - [StackBlitz](http://stackblitz.io)
 - [Repl.it](https://repl.it/)
 - [Runkit](https://runkit.com/)
+- [CodePeb](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
 
 JAM Stack
-- [fast.io](https://fast.io/)
+- [Fast.io](https://fast.io/)
+- [StackBit](https://stackbit.com)
 - [CommerceLayer](https://commercelayer.io/)
 - [DatoCMS](https://www.datocms.com/)
 - [Surge.sh](https://surge.sh/)
 - [Contentful](https://www.contentful.com/)
 - [Forestry.io](https://forestry.io/)
+- [Tina CMS](https://tinacms.org/)
+- [Eleventy Site Generator](https://www.11ty.dev/)
+- [Sanity CMS](https://www.sanity.io/)
+- [Cloudinary image CMS](https://cloudinary.com/)
+- [Okta Auth](https://www.okta.com/)
+- [Auth0](https://auth0.com/)
+- [Netlify](https://www.netlify.com)
+- [Heroku](https://www.heroku.com)
+- [Zeit](https://zeit.co/)
+
+Databases
+- [Fauna Serverless DB](https://fauna.com/)
+- [CouchDB](https://couchdb.apache.org/) - Cloudant (https://www.ibm.com/cloud/cloudant)
+
 
 2D Animation
 
 - [Famous Engine](http://famous.org/learn/hello-famous.html)
 - [Rive](https://rive.app/)
+- [PixiJS](https://pixijs.io/) - [Learning Pixi](https://github.com/kittykatattack/learningPixi)
+- [GreenSock](https://greensock.com/)
+  
+3D Animation
+- [ThreeJS](https://threejs.org/)
 
 Design
 - [Figma](https://www.figma.com/)
