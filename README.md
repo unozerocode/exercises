@@ -93,6 +93,7 @@ JAM Stack
 - [CommerceLayer](https://commercelayer.io/)
 - [DatoCMS](https://www.datocms.com/)
 - [Surge.sh](https://surge.sh/)
+- [Prismic.io](https://prismic.io/)
 - [Contentful](https://www.contentful.com/)
 - [Forestry.io](https://forestry.io/)
 - [Tina CMS](https://tinacms.org/)
@@ -116,9 +117,15 @@ Databases
 - [Rive](https://rive.app/)
 - [PixiJS](https://pixijs.io/) - [Learning Pixi](https://github.com/kittykatattack/learningPixi)
 - [GreenSock](https://greensock.com/)
-  
+- [GraphToy](http://www.iquilezles.org/apps/graphtoy/)
+
+
 3D Animation
 - [ThreeJS](https://threejs.org/)
+- [ShaderToy](https://www.shadertoy.com/)
+- [Book of Shaders](https://thebookofshaders.com/)
+- [Book of Shaders Editor](http://editor.thebookofshaders.com/)
+
 
 Design
 - [Figma](https://www.figma.com/)
